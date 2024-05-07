@@ -813,6 +813,9 @@ $btn-mb: 0.5rem;
     padding-right: 1rem;
     margin-bottom: 1.5rem;
 
+    // 사이드바 하단 아이콘 가운데 정렬
+    justify-content: center;
+
     $btn-size: 1.75rem;
 
     %button {
